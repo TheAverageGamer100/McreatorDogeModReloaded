@@ -1,0 +1,30 @@
+{
+  "group": "the_doge_mod_reloaded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "the_doge_mod_reloaded:dogeiumgem"
+    },
+    "1": {
+      "item": "the_doge_mod_reloaded:dogeiumgem"
+    },
+    "2": {
+      "item": "the_doge_mod_reloaded:dogeiumgem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the_doge_mod_reloaded:dogeiumpickaxe",
+    "count": 1
+  }
+}

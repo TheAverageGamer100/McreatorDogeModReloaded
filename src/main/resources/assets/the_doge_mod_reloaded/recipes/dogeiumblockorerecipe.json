@@ -1,0 +1,13 @@
+{
+  "group": "the_doge_mod_reloaded",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_doge_mod_reloaded:dogeiumoreblock"
+    }
+  ],
+  "result": {
+    "item": "the_doge_mod_reloaded:dogeiumgem",
+    "count": 9
+  }
+}

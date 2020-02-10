@@ -1,0 +1,29 @@
+{
+  "group": "the_doge_mod_reloaded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_doge_mod_reloaded:dogeiumgem"
+    },
+    "1": {
+      "item": "the_doge_mod_reloaded:dogeiumgem"
+    },
+    "2": {
+      "item": "the_doge_mod_reloaded:dogeiumgem"
+    },
+    "3": {
+      "item": "the_doge_mod_reloaded:dogeiumgem"
+    },
+    "5": {
+      "item": "the_doge_mod_reloaded:dogeiumgem"
+    }
+  },
+  "result": {
+    "item": "the_doge_mod_reloaded:dogeiumarmorhelmet",
+    "count": 1
+  }
+}
